@@ -1,0 +1,15 @@
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.csproj.AssemblyReference.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.AssemblyInfoInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.AssemblyInfo.cs
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.csproj.CoreCompileInputs.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/bin/Debug/net7.0/Task12
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/bin/Debug/net7.0/Task12.deps.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/bin/Debug/net7.0/Task12.runtimeconfig.json
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/bin/Debug/net7.0/Task12.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/bin/Debug/net7.0/Task12.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/refint/Task12.dll
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.pdb
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/Task12.genruntimeconfig.cache
+/Users/maratzhumataev/Мой Mac (iMac — MARAT)/Documents/Семинар 2 C#/Task12/obj/Debug/net7.0/ref/Task12.dll
